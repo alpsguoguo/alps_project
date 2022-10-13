@@ -1,5 +1,5 @@
-hello cola 11111111111
-hello cola 22222222222
+hello cola 11111
+hello cola 22222
 hello cola
 hello cola
 hello cola
